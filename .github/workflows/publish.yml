@@ -6,7 +6,6 @@ on:
       - main
     tags:
       - '*'
-
 jobs:
   build:
     runs-on: ubuntu-latest
