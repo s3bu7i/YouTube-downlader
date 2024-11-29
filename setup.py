@@ -9,9 +9,4 @@ setup(
         "rich",
         "tqdm",
     ],
-    entry_points={
-        "console_scripts": [
-            "ytdw=yt_downloader:main",
-        ],
-    },
 )
