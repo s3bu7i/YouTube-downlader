@@ -59,8 +59,8 @@ python yt_downloader.py
 - **tqdm**: Adds progress bars and animations.
 
 ## Screenshots
-![Welcome Screen](welcome_screen_example.png)
-![Menu Example](menu_example.png)
+![Welcome Screen](1.png)
+![Menu Example](2.png)
 
 ## License
 This project is licensed under the MIT License. Feel free to use, share, and modify.
