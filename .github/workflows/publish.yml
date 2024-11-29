@@ -28,5 +28,5 @@ jobs:
       - name: Build and Publish
         run: |
           python setup.py sdist bdist_wheel
-          twine upload dist/* -u ${{ secrets.creatheos }} -p ${{ secrets.8KnYfq5D!4VwNEG }}
+          twine upload dist/* -u ${{ secrets.PYPI_USERNAME }} -p ${{ secrets.PYPI_PASSWORD }}
 
