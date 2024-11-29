@@ -63,8 +63,6 @@ python yt_downloader.py
 ![Menu Example](2.png)
 
 ## License
-This project is licensed under the MIT License. Feel free to use, share, and modify.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contributing
-Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request.
 
