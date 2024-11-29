@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "ytdw"
+version = "1.0.0"
+description = "A powerful and visually engaging command-line application to download YouTube videos and audio using the yt-dlp library."
+authors = ["theos"]
+license = "GNU GENERAL PUBLIC LICENSE"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
